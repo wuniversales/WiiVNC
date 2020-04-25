@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
   <name>WiiVNC</name>
-  <coder>PaulWagener</coder>
+  <coder>PaulWagener and wuniversales</coder>
   <version>1.3</version>
   <short_description>Control your computer</short_description> 
   <long_description>Connect to a VNC server
