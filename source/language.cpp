@@ -68,10 +68,10 @@ void InitializeLanguage()
 			break;
 			
 		case CONF_LANG_SPANISH:
-			TEXT_InitializingNetwork = L"Inciando la Conexión";
-			TEXT_CouldNotConnect = L"No Se Pudo Conectar a la Red";
+			TEXT_InitializingNetwork = L"Inciando la conexión";
+			TEXT_CouldNotConnect = L"No se pudo conectar a la Red";
 			TEXT_ConnectingTo = L"Conectándose a:";
-			TEXT_ConnectionFailed = L"Falló la Conexión";
+			TEXT_ConnectionFailed = L"Falló la conexión";
 			TEXT_EnterPassword = L"Introducir Clave";
 			TEXT_Cancel = L"Cancelar";
 			TEXT_Connect = L"Conectar";
